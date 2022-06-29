@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/assignment_2_venia/static/css/main.2aed82fa.css",
-    "main.js": "/assignment_2_venia/static/js/main.9644d1cf.js",
+    "main.js": "/assignment_2_venia/static/js/main.44e022f0.js",
     "static/js/787.8f115d99.chunk.js": "/assignment_2_venia/static/js/787.8f115d99.chunk.js",
     "index.html": "/assignment_2_venia/index.html",
     "main.2aed82fa.css.map": "/assignment_2_venia/static/css/main.2aed82fa.css.map",
-    "main.9644d1cf.js.map": "/assignment_2_venia/static/js/main.9644d1cf.js.map",
+    "main.44e022f0.js.map": "/assignment_2_venia/static/js/main.44e022f0.js.map",
     "787.8f115d99.chunk.js.map": "/assignment_2_venia/static/js/787.8f115d99.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2aed82fa.css",
-    "static/js/main.9644d1cf.js"
+    "static/js/main.44e022f0.js"
   ]
 }
