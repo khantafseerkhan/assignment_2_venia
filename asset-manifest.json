@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/assignment_2_venia/static/css/main.7d972e08.css",
-    "main.js": "/assignment_2_venia/static/js/main.81f2b367.js",
+    "main.css": "/assignment_2_venia/static/css/main.c67b76a1.css",
+    "main.js": "/assignment_2_venia/static/js/main.fbef0e80.js",
     "static/js/787.8f115d99.chunk.js": "/assignment_2_venia/static/js/787.8f115d99.chunk.js",
     "static/media/heroimg.PNG": "/assignment_2_venia/static/media/heroimg.b47f55fb38fcb160fbb6.PNG",
     "index.html": "/assignment_2_venia/index.html",
-    "main.7d972e08.css.map": "/assignment_2_venia/static/css/main.7d972e08.css.map",
-    "main.81f2b367.js.map": "/assignment_2_venia/static/js/main.81f2b367.js.map",
+    "main.c67b76a1.css.map": "/assignment_2_venia/static/css/main.c67b76a1.css.map",
+    "main.fbef0e80.js.map": "/assignment_2_venia/static/js/main.fbef0e80.js.map",
     "787.8f115d99.chunk.js.map": "/assignment_2_venia/static/js/787.8f115d99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d972e08.css",
-    "static/js/main.81f2b367.js"
+    "static/css/main.c67b76a1.css",
+    "static/js/main.fbef0e80.js"
   ]
 }
